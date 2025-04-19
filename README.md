@@ -87,11 +87,4 @@ dashboard/
 Built with 💻, ☕, late-night debugging and 
 Made with ❤️ by Samiya
 
-Let’s connect on LinkedIn 🌐 -> linkedin.com/in/samiya-06100729a
-
-
-
-
-=======
-# Innova-trading-platform
->>>>>>> 5980ef8ed5d7f2a42e40eb04176ef303c0214c91
+Let’s connect on LinkedIn 🌐 -> (linkedin.com/in/samiya-06100729a)

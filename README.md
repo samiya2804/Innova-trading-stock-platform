@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Innova--Stock-Trading-Platform -Zerodha Dashboard Clone 💹
 Welcome to the **Zerodha Dashboard Clone** — a slick, responsive frontend recreation of India’s leading stock trading platform. Designed with **React**, powered by **Material UI**, and brought to life with dynamic charts using **Chart.js**
 A front-end clone of the Zerodha stock trading dashboard built using **React.js**, **Material UI**, **Chart.js**, and **Axios**. This project replicates essential features of Zerodha’s dashboard interface including watchlist, holdings, positions, charts, and transaction actions.
@@ -81,7 +81,7 @@ dashboard/
 
 🙌 Acknowledgements
 1. Zerodha – Inspiration for UI/UX
-2. Apna College – Project starter repo (https://github.com/apna-college/Zerodha)
+2. Apna College – Project starter repo (https://github.com/samiya2804/Innova-trading-stock-platform.git)
 
 🧑‍💻 Author
 Built with 💻, ☕, late-night debugging and 
